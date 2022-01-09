@@ -1,0 +1,25 @@
+		
+
+			Tata Cara Permainan 
+	
+	1. Kata yang disusun harus kata Bahasa Inggris
+	2. Jumlah semua huruf pada awal permainan adalah 102 buah
+	3. Kata dapat disusun dari minimal dari 2 huruf dari 7 huruf yang tersedia.
+	4. Posisi Kata yang akan dibuat harus menempel minimal satu 
+	   huruf dengan kata yang sudah ada
+	5. Setiap Huruf memiliki Poin yang berbeda
+	6. Ketika bermain Player akan diminta menentukan bentuk kata, 
+	   posisi huruf pertama dan jumlah huruf yang akan digunakan
+	7. Jika ingin menambah huruf dari kata yang sudah ada maka Jumlah huruf yang dimasukkan 
+	   hanya jumlah dari huruf yang akan diinputkan
+	8. Setiap player menginputkan Huruf, akan ada pemeriksaan kata yang muncul 
+           dari samping kiri dan kanan jika player memilih bentuk kata vertikal dan pemeriksaan kata yang muncul 
+           dari atas dan bawah jika Horizontal
+	9. Jika kata yang diperiksa salah maka giliran bermain akan berganti dan poin tidak akan bertambah
+       10. Setelah selesai menginputkan sebanyak jumlah huruf yang dipilih maka akan dilakukan
+	   pengecekan pada kata yang terbuat
+       11. Jika kata benar maka akan ditampilkan pada papan, 
+	   namun jika salah akan ada pemberitahuan bahwa kata tersebut tidak adalam kamus
+       12. Game akan berhenti jika waktu yang dipilih habis atau kotak sudah dipenuhi kata
+Jika salah satu player ingin berhenti di tengah permainan, maka player tersebut bisa menekan tombol shift yang berarti tombol menyerah, dan player lain (yang tidak menekan tombol shift)-lah yang akan menjadi pemenangnya 
+Jika game dilakukan hingga selesai, maka pemenang ditentukan dari skor yang di dapat dikurangi jumlah huruf yang tersisa di akhir permainan.
